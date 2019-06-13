@@ -1,436 +1,2181 @@
-[{"name": "Abafala", "count": 3, "country": "SK"},
-{"name": "Agárd", "count": 1, "country": "HU"},
-{"name": "Ágcsernyő", "count": 1, "country": "SK"},
-{"name": "Áj", "count": 4, "country": "SK"},
-{"name": "Ajnácskő", "count": 13, "country": "SK"},
-{"name": "Albár", "count": 4, "country": "SK"},
-{"name": "Alistál", "count": 3, "country": "SK"},
-{"name": "Almágy", "count": 5, "country": "SK"},
-{"name": "Almásháza", "count": 1, "country": "HU"},
-{"name": "Alsófalu", "count": 1, "country": "SK"},
-{"name": "Alsóhatár", "count": 1, "country": "SK"},
-{"name": "Alsólánc", "count": 5, "country": "SK"},
-{"name": "Alsószeli", "count": 9, "country": "SK"},
-{"name": "Alsószemeréd", "count": 1, "country": "SK"},
-{"name": "Alsóvadász", "count": 2, "country": "HU"},
-{"name": "Arnót", "count": 1, "country": "HU"},
-{"name": "Aszód", "count": 2, "country": "HU"},
-{"name": "Báb", "count": 2, "country": "SK"},
-{"name": "Bacsfa", "count": 3, "country": "SK"},
-{"name": "Bajta", "count": 1, "country": "SK"},
-{"name": "Baka", "count": 4, "country": "SK"},
-{"name": "Balassagyarmat", "count": 1, "country": "HU"},
-{"name": "Balatonederics", "count": 1, "country": "HU"},
-{"name": "Balatonlelle", "count": 1, "country": "HU"},
-{"name": "Balogfala", "count": 1, "country": "SK"},
-{"name": "Balogpádár", "count": 1, "country": "SK"},
-{"name": "Balony", "count": 2, "country": "SK"},
-{"name": "Bánhorváti", "count": 1, "country": "HU"},
-{"name": "Baraca", "count": 1, "country": "SK"},
-{"name": "Barsbaracska", "count": 1, "country": "SK"},
-{"name": "Bári", "count": 3, "country": "SK"},
-{"name": "Barka", "count": 9, "country": "SK"},
-{"name": "Barsbese", "count": 1, "country": "SK"},
-{"name": "Bart", "count": 1, "country": "SK"},
-{"name": "Bártfa", "count": 2, "country": "SK"},
-{"name": "Baska", "count": 1, "country": "SK"},
-{"name": "Bátka", "count": 17, "country": "SK"},
-{"name": "Bátorkeszi", "count": 27, "country": "SK"},
-{"name": "Bécs", "count": 4, "country": "AT"},
-{"name": "Béke", "count": 3, "country": "SK"},
-{"name": "Békéscsaba", "count": 1, "country": "HU"},
-{"name": "Bély", "count": 2, "country": "SK"},
-{"name": "Béna", "count": 2, "country": "SK"},
-{"name": "Berdárka", "count": 1, "country": "SK"},
-{"name": "Berencs", "count": 1, "country": "SK"},
-{"name": "Beretke", "count": 7, "country": "SK"},
-{"name": "Berzéte", "count": 15, "country": "SK"},
-{"name": "Berzétekőrös", "count": 10, "country": "SK"},
-{"name": "Besztercebánya", "count": 1, "country": "SK"},
-{"name": "Betlér", "count": 1, "country": "SK"},
-{"name": "Bodrogmező", "count": 1, "country": "SK"},
-{"name": "Bodrogszerdahely", "count": 3, "country": "SK"},
-{"name": "Bódvavendégi", "count": 3, "country": "SK"},
-{"name": "Bogyarét", "count": 2, "country": "SK"},
-{"name": "Boly", "count": 2, "country": "SK"},
-{"name": "Borsi", "count": 1, "country": "SK"},
-{"name": "Bős", "count": 28, "country": "SK"},
-{"name": "Breznóbánya", "count": 1, "country": "SK"},
-{"name": "Brünn", "count": 2, "country": "CZ"},
-{"name": "Búcs", "count": 8, "country": "SK"},
-{"name": "Budakeszi", "count": 1, "country": "HU"},
-{"name": "Budaörs", "count": 1, "country": "HU"},
-{"name": "Budapest", "count": 119, "country": "HU"},
-{"name": "Bussa", "count": 1, "country": "SK"},
-{"name": "Buzita", "count": 6, "country": "SK"},
-{"name": "Cakó", "count": 1, "country": "SK"},
-{"name": "Cegléd", "count": 1, "country": "HU"},
-{"name": "Csákány", "count": 1, "country": "SK"},
-{"name": "Csallóközaranyos", "count": 4, "country": "SK"},
-{"name": "Csallóközcsütörtök", "count": 2, "country": "SK"},
-{"name": "Csallóközkürt", "count": 3, "country": "SK"},
-{"name": "Csallóköznádasd", "count": 1, "country": "SK"},
-{"name": "Csécs", "count": 2, "country": "SK"},
-{"name": "Csicser", "count": 8, "country": "SK"},
-{"name": "Csicsó", "count": 7, "country": "SK"},
-{"name": "Csiliznyárad", "count": 1, "country": "SK"},
-{"name": "Csilizradvány", "count": 2, "country": "SK"},
-{"name": "Csíz", "count": 3, "country": "SK"},
-{"name": "Csoltó", "count": 12, "country": "SK"},
-{"name": "Csomatelke", "count": 1, "country": "SK"},
-{"name": "Csorvás", "count": 1, "country": "HU"},
-{"name": "Csucsom", "count": 7, "country": "SK"},
-{"name": "Csúz", "count": 1, "country": "SK"},
-{"name": "Deáki", "count": 3, "country": "SK"},
-{"name": "Debrecen", "count": 5, "country": "HU"},
-{"name": "Debrőd", "count": 7, "country": "SK"},
-{"name": "Dédestapolcsány", "count": 2, "country": "HU"},
-{"name": "Deregnyő", "count": 1, "country": "SK"},
-{"name": "Deresk", "count": 6, "country": "SK"},
-{"name": "Dernő", "count": 15, "country": "SK"},
-{"name": "Détér", "count": 6, "country": "SK"},
-{"name": "Diósförgepatony", "count": 6, "country": "SK"},
-{"name": "Diószeg", "count": 3, "country": "SK"},
-{"name": "Dobfenek", "count": 1, "country": "SK"},
-{"name": "Dobóca", "count": 4, "country": "SK"},
-{"name": "Doborgaz", "count": 1, "country": "SK"},
-{"name": "Donieck", "count": 1, "country": "UA"},
-{"name": "Dublin", "count": 1, "country": "IE"},
-{"name": "Dunakeszi", "count": 1, "country": "HU"},
-{"name": "Dunamocs", "count": 26, "country": "SK"},
-{"name": "Dunaradvány", "count": 13, "country": "SK"},
-{"name": "Dunasápújfalu", "count": 1, "country": "SK"},
-{"name": "Dunaszerdahely", "count": 63, "country": "SK"},
-{"name": "Ebed", "count": 2, "country": "SK"},
-{"name": "Edelény", "count": 2, "country": "HU"},
-{"name": "Eger", "count": 4, "country": "HU"},
-{"name": "Egyházasbást", "count": 10, "country": "SK"},
-{"name": "Egyházkarcsa", "count": 2, "country": "SK"},
-{"name": "Ekecs", "count": 3, "country": "SK"},
-{"name": "Ekel", "count": 2, "country": "SK"},
-{"name": "Encs", "count": 3, "country": "HU"},
-{"name": "Eperjes", "count": 1, "country": "SK"},
-{"name": "Érd", "count": 2, "country": "HU"},
-{"name": "Erdőtelek", "count": 1, "country": "HU"},
-{"name": "Érsekkéty", "count": 4, "country": "SK"},
-{"name": "Érsekújvár", "count": 30, "country": "SK"},
-{"name": "Esztergom", "count": 5, "country": "HU"},
-{"name": "Etyek", "count": 1, "country": "HU"},
-{"name": "Farnad", "count": 9, "country": "SK"},
-{"name": "Feketenyék", "count": 1, "country": "SK"},
-{"name": "Fél", "count": 1, "country": "SK"},
-{"name": "Felbár", "count": 8, "country": "SK"},
-{"name": "Feled", "count": 10, "country": "SK"},
-{"name": "Felsőpakony", "count": 1, "country": "HU"},
-{"name": "Lögérpatony", "count": 2, "country": "SK"},
-{"name": "Felsőrás", "count": 3, "country": "SK"},
-{"name": "Felsőszeli", "count": 5, "country": "SK"},
-{"name": "Felsővály", "count": 1, "country": "SK"},
-{"name": "Felsővámos", "count": 1, "country": "SK"},
-{"name": "Fülek", "count": 41, "country": "SK"},
-{"name": "Fülekkovácsi", "count": 1, "country": "SK"},
-{"name": "Fülekpüspöki", "count": 3, "country": "SK"},
-{"name": "Fűr", "count": 2, "country": "SK"},
-{"name": "Galánta", "count": 8, "country": "SK"},
-{"name": "Garamkövesd", "count": 2, "country": "SK"},
-{"name": "Gesztete", "count": 2, "country": "SK"},
-{"name": "Gice", "count": 3, "country": "SK"},
-{"name": "Gímes", "count": 1, "country": "SK"},
-{"name": "Gomba", "count": 2, "country": "SK"},
-{"name": "Gömörfalva", "count": 6, "country": "SK"},
-{"name": "Gömörhorka", "count": 68, "country": "SK"},
-{"name": "Gömörhosszúszó", "count": 44, "country": "SK"},
-{"name": "Gömörpanyit", "count": 7, "country": "SK"},
-{"name": "Gömörpéterfala", "count": 6, "country": "SK"},
-{"name": "Göngyös", "count": 1, "country": "HU"},
-{"name": "Guszona", "count": 1, "country": "SK"},
-{"name": "Gúta", "count": 79, "country": "SK"},
-{"name": "Gútor", "count": 1, "country": "SK"},
-{"name": "Gyermely", "count": 2, "country": "HU"},
-{"name": "Győr", "count": 3, "country": "HU"},
-{"name": "Hajdúböszörmény", "count": 1, "country": "HU"},
-{"name": "Halmaj", "count": 1, "country": "HU"},
-{"name": "Hanva", "count": 7, "country": "SK"},
-{"name": "Hárskút", "count": 19, "country": "SK"},
-{"name": "Hegyéte", "count": 4, "country": "SK"},
-{"name": "Hegysúr", "count": 3, "country": "SK"},
-{"name": "Helemba", "count": 1, "country": "SK"},
-{"name": "Helsinki", "count": 1, "country": "FI"},
-{"name": "Hetény", "count": 21, "country": "SK"},
-{"name": "Hidaskürt", "count": 1, "country": "SK"},
-{"name": "Hidasnémeti", "count": 1, "country": "HU"},
-{"name": "Hollóháza", "count": 1, "country": "HU"},
-{"name": "Hontfüzesgyarmat", "count": 1, "country": "SK"},
-{"name": "Hubó", "count": 5, "country": "SK"},
-{"name": "Ifjúságfalva", "count": 2, "country": "SK"},
-{"name": "Illésháza", "count": 5, "country": "SK"},
-{"name": "Imely", "count": 2, "country": "SK"},
-{"name": "Inám", "count": 7, "country": "SK"},
-{"name": "Ipolybalog", "count": 4, "country": "SK"},
-{"name": "Ipolyfödémes", "count": 2, "country": "SK"},
-{"name": "Ipolyhídvég", "count": 1, "country": "SK"},
-{"name": "Ipolynyék", "count": 8, "country": "SK"},
-{"name": "Ipolyság", "count": 10, "country": "SK"},
-{"name": "Ipolyszakállos", "count": 1, "country": "SK"},
-{"name": "Izsa", "count": 8, "country": "SK"},
-{"name": "Jablonca", "count": 27, "country": "SK"},
-{"name": "Jánok", "count": 6, "country": "SK"},
-{"name": "Jánosi", "count": 3, "country": "SK"},
-{"name": "Jászó", "count": 6, "country": "SK"},
-{"name": "Jéne", "count": 1, "country": "SK"},
-{"name": "Jóka", "count": 2, "country": "SK"},
-{"name": "Jólész", "count": 18, "country": "SK"},
-{"name": "Jósvafő", "count": 2, "country": "HU"},
-{"name": "Kalász", "count": 1, "country": "SK"},
-{"name": "Kalocsa", "count": 1, "country": "HU"},
-{"name": "Kálosa", "count": 3, "country": "SK"},
-{"name": "Kamocsa", "count": 4, "country": "SK"},
-{"name": "Kaposkelecsény", "count": 6, "country": "SK"},
-{"name": "Karlsruhe", "count": 2, "country": "DE"},
-{"name": "Karva", "count": 4, "country": "SK"},
-{"name": "Kassa", "count": 84, "country": "SK"},
-{"name": "Kazincbarcika", "count": 4, "country": "HU"},
-{"name": "Kecskemét", "count": 2, "country": "HU"},
-{"name": "Kecső", "count": 28, "country": "SK"},
-{"name": "Kéménd", "count": 3, "country": "SK"},
-{"name": "Kenyhec", "count": 2, "country": "SK"},
-{"name": "Kerepestarcsa", "count": 1, "country": "HU"},
-{"name": "Keszegfalva", "count": 12, "country": "SK"},
-{"name": "Kicsind", "count": 1, "country": "SK"},
-{"name": "Királyfiakarcsa", "count": 3, "country": "SK"},
-{"name": "Királyhelmec", "count": 14, "country": "SK"},
-{"name": "Királyrév", "count": 2, "country": "SK"},
-{"name": "Kisdobra", "count": 1, "country": "SK"},
-{"name": "Kisgéres", "count": 2, "country": "SK"},
-{"name": "Ipolykiskeszi", "count": 3, "country": "SK"},
-{"name": "Kiskövesd", "count": 2, "country": "SK"},
-{"name": "Kiskunhalas", "count": 1, "country": "HU"},
-{"name": "Kistárkány", "count": 7, "country": "SK"},
-{"name": "Kisudvarnok", "count": 6, "country": "SK"},
-{"name": "Kisújfalu", "count": 7, "country": "SK"},
-{"name": "Kolon", "count": 2, "country": "SK"},
-{"name": "Kolozsnéma", "count": 1, "country": "SK"},
-{"name": "Komaróc", "count": 11, "country": "SK"},
-{"name": "Komárom", "count": 326, "country": "SK"},
-{"name": "Komáromfüss", "count": 5, "country": "SK"},
-{"name": "Koppenhága", "count": 1, "country": "DK"},
-{"name": "Kóvár", "count": 1, "country": "SK"},
-{"name": "Köbölkút", "count": 7, "country": "SK"},
-{"name": "Kőkeszi", "count": 1, "country": "SK"},
-{"name": "Körtvélyes", "count": 12, "country": "SK"},
-{"name": "Kövecses", "count": 9, "country": "SK"},
-{"name": "Krasznahorkaváralja", "count": 55, "country": "SK"},
-{"name": "Kuntapolca", "count": 6, "country": "SK"},
-{"name": "Kürt", "count": 6, "country": "SK"},
-{"name": "Ladamóc", "count": 1, "country": "SK"},
-{"name": "Lakhegy", "count": 2, "country": "HU"},
-{"name": "Lakszakállas", "count": 6, "country": "SK"},
-{"name": "Lég", "count": 6, "country": "SK"},
-{"name": "Lekenye", "count": 18, "country": "SK"},
-{"name": "Lelesz", "count": 1, "country": "SK"},
-{"name": "Léva", "count": 14, "country": "SK"},
-{"name": "Lice", "count": 1, "country": "SK"},
-{"name": "London", "count": 1, "country": "UK"},
-{"name": "Lontó", "count": 2, "country": "SK"},
-{"name": "Los Angeles", "count": 1, "country": "US"},
-{"name": "Losonc", "count": 10, "country": "SK"},
-{"name": "Lőkös", "count": 2, "country": "SK"},
-{"name": "Lukanénye", "count": 9, "country": "SK"},
-{"name": "Madar", "count": 18, "country": "SK"},
-{"name": "Makranc", "count": 10, "country": "SK"},
-{"name": "Marcali", "count": 1, "country": "HU"},
-{"name": "Marcelháza", "count": 26, "country": "SK"},
-{"name": "Martos", "count": 2, "country": "SK"},
-{"name": "Medveshidegkút", "count": 2, "country": "SK"},
-{"name": "Megyercs", "count": 4, "country": "SK"},
-{"name": "Méhi", "count": 16, "country": "SK"},
-{"name": "Melléte", "count": 10, "country": "SK"},
-{"name": "Mezőkövesd", "count": 1, "country": "HU"},
-{"name": "Miglécnémeti", "count": 3, "country": "SK"},
-{"name": "Miskolc", "count": 18, "country": "HU"},
-{"name": "Mohács", "count": 1, "country": "HU"},
-{"name": "Monor", "count": 1, "country": "HU"},
-{"name": "Mosonmagyaróvár", "count": 2, "country": "HU"},
-{"name": "Mosonudvar", "count": 1, "country": "HU"},
-{"name": "Muzsla", "count": 2, "country": "SK"},
-{"name": "Nádszeg", "count": 1, "country": "SK"},
-{"name": "Nagyabony", "count": 2, "country": "SK"},
-{"name": "Nagybodak", "count": 1, "country": "SK"},
-{"name": "Nagycsalomja", "count": 2, "country": "SK"},
-{"name": "Nagydaróc", "count": 3, "country": "SK"},
-{"name": "Nagyfödémes", "count": 1, "country": "SK"},
-{"name": "Nagyida", "count": 2, "country": "SK"},
-{"name": "Nagykapos", "count": 23, "country": "SK"},
-{"name": "Nagykeszi", "count": 6, "country": "SK"},
-{"name": "Nagykőrös", "count": 1, "country": "HU"},
-{"name": "Nagykövesd", "count": 1, "country": "SK"},
-{"name": "Nagykürtös", "count": 9, "country": "SK"},
-{"name": "Nagymácséd", "count": 1, "country": "SK"},
-{"name": "Nagymagyar", "count": 4, "country": "SK"},
-{"name": "Nagymegyer", "count": 11, "country": "SK"},
-{"name": "Nagyölved", "count": 2, "country": "SK"},
-{"name": "Nagyráska", "count": 4, "country": "SK"},
-{"name": "Nagyrőce", "count": 8, "country": "SK"},
-{"name": "Nagysalló", "count": 2, "country": "SK"},
-{"name": "Nagyszarva", "count": 5, "country": "SK"},
-{"name": "Nagyszelmenc", "count": 1, "country": "SK"},
-{"name": "Nagytárkány", "count": 3, "country": "SK"},
-{"name": "Nagytúr", "count": 1, "country": "SK"},
-{"name": "Nagyudvarnok", "count": 4, "country": "SK"},
-{"name": "Nagyveszverés", "count": 2, "country": "SK"},
-{"name": "Nána", "count": 3, "country": "SK"},
-{"name": "Naprágy", "count": 4, "country": "SK"},
-{"name": "Naszvad", "count": 16, "country": "SK"},
-{"name": "Nemeshodos", "count": 1, "country": "SK"},
-{"name": "Nemesmartonfala", "count": 2, "country": "SK"},
-{"name": "Nemesócsa", "count": 6, "country": "SK"},
-{"name": "Nemesradnót", "count": 1, "country": "SK"},
-{"name": "Nyárasd", "count": 3, "country": "SK"},
-{"name": "Nyékvárkony", "count": 9, "country": "SK"},
-{"name": "Nyírágó", "count": 2, "country": "SK"},
-{"name": "Nyíregyháza", "count": 6, "country": "HU"},
-{"name": "Nyirmártonfalva", "count": 1, "country": "HU"},
-{"name": "Nyirtelek", "count": 1, "country": "HU"},
-{"name": "Nyitra", "count": 1, "country": "SK"},
-{"name": "Nyitracsehi", "count": 3, "country": "SK"},
-{"name": "Nyitranagykér", "count": 1, "country": "SK"},
-{"name": "Óbást", "count": 4, "country": "SK"},
-{"name": "Ógyalla", "count": 10, "country": "SK"},
-{"name": "Otrokócs", "count": 3, "country": "SK"},
-{"name": "Óvár", "count": 5, "country": "SK"},
-{"name": "Ózd", "count": 2, "country": "HU"},
-{"name": "Örös", "count": 2, "country": "SK"},
-{"name": "Pány", "count": 1, "country": "SK"},
-{"name": "Párkány", "count": 33, "country": "SK"},
-{"name": "Páskaháza", "count": 8, "country": "SK"},
-{"name": "Pat", "count": 4, "country": "SK"},
-{"name": "Péder", "count": 9, "country": "SK"},
-{"name": "Pelsőc", "count": 95, "country": "SK"},
-{"name": "Pelsőcardó", "count": 3, "country": "SK"},
-{"name": "Perbenyik", "count": 3, "country": "SK"},
-{"name": "Perbete", "count": 21, "country": "SK"},
-{"name": "Pered", "count": 9, "country": "SK"},
-{"name": "Perényhím", "count": 3, "country": "SK"},
-{"name": "Perkupa", "count": 1, "country": "HU"},
-{"name": "Piliscsaba", "count": 1, "country": "HU"},
-{"name": "Pinc", "count": 1, "country": "SK"},
-{"name": "Pódatejed", "count": 1, "country": "SK"},
-{"name": "Pozba", "count": 1, "country": "SK"},
-{"name": "Pozsony", "count": 44, "country": "SK"},
-{"name": "Pozsonyeperjes", "count": 7, "country": "SK"},
-{"name": "Pozsonyvezekény", "count": 1, "country": "SK"},
-{"name": "Prága", "count": 2, "country": "CZ"},
-{"name": "Putnok", "count": 3, "country": "HU"},
-{"name": "Rabcsa", "count": 1, "country": "SK"},
-{"name": "Rad", "count": 1, "country": "SK"},
-{"name": "Ragyolc", "count": 9, "country": "SK"},
-{"name": "Rakottyás", "count": 2, "country": "SK"},
-{"name": "Rapp", "count": 2, "country": "SK"},
-{"name": "Reichenbach an der Fils", "count": 1, "country": "DE"},
-{"name": "Reste", "count": 5, "country": "SK"},
-{"name": "Réte", "count": 1, "country": "SK"},
-{"name": "Rimabrézó", "count": 1, "country": "SK"},
-{"name": "Rimasimonyi", "count": 1, "country": "SK"},
-{"name": "Rimaszécs", "count": 9, "country": "SK"},
-{"name": "Rimaszombat", "count": 108, "country": "SK"},
-{"name": "Rozsnyó", "count": 281, "country": "SK"},
-{"name": "Rozsnyórudna", "count": 2, "country": "SK"},
-{"name": "Sajógömör", "count": 4, "country": "SK"},
-{"name": "Sajólénártfala", "count": 5, "country": "SK"},
-{"name": "Sajórecske", "count": 2, "country": "SK"},
-{"name": "Sajószentkirály", "count": 10, "country": "SK"},
-{"name": "Sajószentpéter", "count": 10, "country": "HU"},
-{"name": "Salgótarján", "count": 4, "country": "HU"},
-{"name": "Sáró", "count": 1, "country": "SK"},
-{"name": "Sárosfa", "count": 1, "country": "SK"},
-{"name": "Serke", "count": 5, "country": "SK"},
-{"name": "Gömörsíd", "count": 1, "country": "SK"},
-{"name": "Siófok", "count": 1, "country": "HU"},
-{"name": "Solymár", "count": 4, "country": "HU"},
-{"name": "Somodi", "count": 16, "country": "SK"},
-{"name": "Somorja", "count": 41, "country": "SK"},
-{"name": "Somoskőújfalu", "count": 2, "country": "HU"},
-{"name": "Sopron", "count": 2, "country": "HU"},
-{"name": "Sőreg", "count": 3, "country": "SK"},
-{"name": "Strasbourg", "count": 1, "country": "FR"},
-{"name": "Szabadka", "count": 3, "country": "SR"},
-{"name": "Szádalmás", "count": 58, "country": "SK"},
-{"name": "Szádelő", "count": 10, "country": "SK"},
-{"name": "Szádudvarnokméhész", "count": 8, "country": "SK"},
-{"name": "Szádvárborsa", "count": 6, "country": "SK"},
-{"name": "Szalóc", "count": 56, "country": "SK"},
-{"name": "Szap", "count": 2, "country": "SK"},
-{"name": "Százhalombatta", "count": 1, "country": "HU"},
-{"name": "Szécsény", "count": 3, "country": "HU"},
-{"name": "Szeged", "count": 3, "country": "HU"},
-{"name": "Székelyudvarhely", "count": 5, "country": "RO"},
-{"name": "Székesfehérvár", "count": 4, "country": "HU"},
-{"name": "Szekszárd", "count": 1, "country": "HU"},
-{"name": "Szenc", "count": 7, "country": "SK"},
-{"name": "Szentendre", "count": 1, "country": "HU"},
-{"name": "Szentpéter", "count": 12, "country": "SK"},
-{"name": "Szepsi", "count": 109, "country": "SK"},
-{"name": "Szeszta", "count": 6, "country": "SK"},
-{"name": "Szilas", "count": 6, "country": "SK"},
-{"name": "Szilice", "count": 66, "country": "SK"},
-{"name": "Szímő", "count": 1, "country": "SK"},
-{"name": "Szinyér", "count": 1, "country": "SK"},
-{"name": "Szirénfalva", "count": 5, "country": "SK"},
-{"name": "Szkáros", "count": 1, "country": "SK"},
-{"name": "Szőgyén", "count": 17, "country": "SK"},
-{"name": "Szőlősardó", "count": 2, "country": "HU"},
-{"name": "Szőlőske", "count": 1, "country": "SK"},
-{"name": "Tajti", "count": 8, "country": "SK"},
-{"name": "Taksonyfalva", "count": 6, "country": "SK"},
-{"name": "Tallós", "count": 6, "country": "SK"},
-{"name": "Tamási", "count": 1, "country": "HU"},
-{"name": "Tardoskedd", "count": 3, "country": "SK"},
-{"name": "Tata", "count": 1, "country": "HU"},
-{"name": "Tatabánya", "count": 2, "country": "HU"},
-{"name": "Telki", "count": 1, "country": "HU"},
-{"name": "Temesvár", "count": 1, "country": "RO"},
-{"name": "Tiszabecs", "count": 1, "country": "HU"},
-{"name": "Tiszacsernyő", "count": 3, "country": "SK"},
-{"name": "Tiszaföldvár", "count": 1, "country": "HU"},
-{"name": "Tiszafüred", "count": 1, "country": "HU"},
-{"name": "Tiszasüly", "count": 1, "country": "HU"},
-{"name": "Tiszaújváros", "count": 1, "country": "HU"},
-{"name": "Torda", "count": 1, "country": "RO"},
-{"name": "Torna", "count": 18, "country": "SK"},
-{"name": "Tornagörgő", "count": 105, "country": "SK"},
-{"name": "Tornahorváti", "count": 2, "country": "SK"},
-{"name": "Tornalja", "count": 173, "country": "SK"},
-{"name": "Tornaújfalu", "count": 16, "country": "SK"},
-{"name": "Tornóc", "count": 1, "country": "SK"},
-{"name": "Tornyosnémeti", "count": 1, "country": "HU"},
-{"name": "Törökbálint", "count": 1, "country": "HU"},
-{"name": "Udvard", "count": 1, "country": "SK"},
-{"name": "Ungvár", "count": 1, "country": "UA"},
-{"name": "Vác", "count": 4, "country": "HU"},
-{"name": "Vágfarkasd", "count": 2, "country": "SK"},
-{"name": "Vágfüzes", "count": 2, "country": "SK"},
-{"name": "Vágkirályfa", "count": 3, "country": "SK"},
-{"name": "Vágpatta", "count": 1, "country": "SK"},
-{"name": "Vágsellye", "count": 6, "country": "SK"},
-{"name": "Vajka", "count": 1, "country": "SK"},
-{"name": "Vámosbalog", "count": 13, "country": "SK"},
-{"name": "Vámosszabadi", "count": 1, "country": "HU"},
-{"name": "Várhosszúrét", "count": 65, "country": "SK"},
-{"name": "Vásárosnamény", "count": 1, "country": "HU"},
-{"name": "Vásárút", "count": 5, "country": "SK"},
-{"name": "Vecseklő", "count": 1, "country": "SK"},
-{"name": "Velence", "count": 1, "country": "HU"},
-{"name": "Velkenye", "count": 1, "country": "SK"},
-{"name": "Veresegyház", "count": 1, "country": "HU"},
-{"name": "Veszprém", "count": 2, "country": "HU"},
-{"name": "Virt", "count": 1, "country": "SK"},
-{"name": "Vizslás", "count": 1, "country": "HU"},
-{"name": "Wels", "count": 2, "country": "AT"},
-{"name": "Wroclaw", "count": 2, "country": "PL"},
-{"name": "Zeherje", "count": 2, "country": "SK"},
-{"name": "Zétény", "count": 1, "country": "SK"},
-{"name": "Zonctorony", "count": 1, "country": "SK"},
-{"name": "Zsarnó", "count": 4, "country": "SK"},
-{"name": "Zselíz", "count": 9, "country": "SK"},
-{"name": "Zsély", "count": 1, "country": "SK"},
-{"name": "Zsigárd", "count": 4, "country": "SK"}]
+[{
+    "name": "Abafala",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Agárd",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Ágcsernyő",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Áj",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Ajnácskő",
+    "count": 13,
+    "country": "SK"
+  },
+  {
+    "name": "Albár",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Alistál",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Almágy",
+    "count": 5,
+    "country": "SK"
+  },
+  {
+    "name": "Almásháza",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Alsófalu",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Alsóhatár",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Alsólánc",
+    "count": 5,
+    "country": "SK"
+  },
+  {
+    "name": "Alsószeli",
+    "count": 9,
+    "country": "SK"
+  },
+  {
+    "name": "Alsószemeréd",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Alsóvadász",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Arnót",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Aszód",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Báb",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Bacsfa",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Bajta",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Baka",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Balassagyarmat",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Balatonederics",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Balatonlelle",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Balogfala",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Balogpádár",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Balony",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Bánhorváti",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Baraca",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Barsbaracska",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Bári",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Barka",
+    "count": 9,
+    "country": "SK"
+  },
+  {
+    "name": "Barsbese",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Bart",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Bártfa",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Baska",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Bátka",
+    "count": 17,
+    "country": "SK"
+  },
+  {
+    "name": "Bátorkeszi",
+    "count": 27,
+    "country": "SK"
+  },
+  {
+    "name": "Bécs",
+    "count": 4,
+    "country": "AT"
+  },
+  {
+    "name": "Béke",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Békéscsaba",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Bély",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Béna",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Berdárka",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Berencs",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Beretke",
+    "count": 7,
+    "country": "SK"
+  },
+  {
+    "name": "Berzéte",
+    "count": 15,
+    "country": "SK"
+  },
+  {
+    "name": "Berzétekőrös",
+    "count": 10,
+    "country": "SK"
+  },
+  {
+    "name": "Besztercebánya",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Betlér",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Bodrogmező",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Bodrogszerdahely",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Bódvavendégi",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Bogyarét",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Boly",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Borsi",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Bős",
+    "count": 28,
+    "country": "SK"
+  },
+  {
+    "name": "Breznóbánya",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Brünn",
+    "count": 2,
+    "country": "CZ"
+  },
+  {
+    "name": "Búcs",
+    "count": 8,
+    "country": "SK"
+  },
+  {
+    "name": "Budakeszi",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Budaörs",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Budapest",
+    "count": 119,
+    "country": "HU"
+  },
+  {
+    "name": "Bussa",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Buzita",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Cakó",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Cegléd",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Csákány",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Csallóközaranyos",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Csallóközcsütörtök",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Csallóközkürt",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Csallóköznádasd",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Csécs",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Csicser",
+    "count": 8,
+    "country": "SK"
+  },
+  {
+    "name": "Csicsó",
+    "count": 7,
+    "country": "SK"
+  },
+  {
+    "name": "Csiliznyárad",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Csilizradvány",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Csíz",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Csoltó",
+    "count": 12,
+    "country": "SK"
+  },
+  {
+    "name": "Csomatelke",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Csorvás",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Csucsom",
+    "count": 7,
+    "country": "SK"
+  },
+  {
+    "name": "Csúz",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Deáki",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Debrecen",
+    "count": 5,
+    "country": "HU"
+  },
+  {
+    "name": "Debrőd",
+    "count": 7,
+    "country": "SK"
+  },
+  {
+    "name": "Dédestapolcsány",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Deregnyő",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Deresk",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Dernő",
+    "count": 15,
+    "country": "SK"
+  },
+  {
+    "name": "Détér",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Diósförgepatony",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Diószeg",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Dobfenek",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Dobóca",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Doborgaz",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Donieck",
+    "count": 1,
+    "country": "UA"
+  },
+  {
+    "name": "Dublin",
+    "count": 1,
+    "country": "IE"
+  },
+  {
+    "name": "Dunakeszi",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Dunamocs",
+    "count": 26,
+    "country": "SK"
+  },
+  {
+    "name": "Dunaradvány",
+    "count": 13,
+    "country": "SK"
+  },
+  {
+    "name": "Dunasápújfalu",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Dunaszerdahely",
+    "count": 63,
+    "country": "SK"
+  },
+  {
+    "name": "Ebed",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Edelény",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Eger",
+    "count": 4,
+    "country": "HU"
+  },
+  {
+    "name": "Egyházasbást",
+    "count": 10,
+    "country": "SK"
+  },
+  {
+    "name": "Egyházkarcsa",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Ekecs",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Ekel",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Encs",
+    "count": 3,
+    "country": "HU"
+  },
+  {
+    "name": "Eperjes",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Érd",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Erdőtelek",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Érsekkéty",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Érsekújvár",
+    "count": 30,
+    "country": "SK"
+  },
+  {
+    "name": "Esztergom",
+    "count": 5,
+    "country": "HU"
+  },
+  {
+    "name": "Etyek",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Farnad",
+    "count": 9,
+    "country": "SK"
+  },
+  {
+    "name": "Feketenyék",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Fél",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Felbár",
+    "count": 8,
+    "country": "SK"
+  },
+  {
+    "name": "Feled",
+    "count": 10,
+    "country": "SK"
+  },
+  {
+    "name": "Felsőpakony",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Lögérpatony",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Felsőrás",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Felsőszeli",
+    "count": 5,
+    "country": "SK"
+  },
+  {
+    "name": "Felsővály",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Felsővámos",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Fülek",
+    "count": 41,
+    "country": "SK"
+  },
+  {
+    "name": "Fülekkovácsi",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Fülekpüspöki",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Fűr",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Galánta",
+    "count": 8,
+    "country": "SK"
+  },
+  {
+    "name": "Garamkövesd",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Gesztete",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Gice",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Gímes",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Gomba",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Gömörfalva",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Gömörhorka",
+    "count": 68,
+    "country": "SK"
+  },
+  {
+    "name": "Gömörhosszúszó",
+    "count": 44,
+    "country": "SK"
+  },
+  {
+    "name": "Gömörpanyit",
+    "count": 7,
+    "country": "SK"
+  },
+  {
+    "name": "Gömörpéterfala",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Göngyös",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Guszona",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Gúta",
+    "count": 79,
+    "country": "SK"
+  },
+  {
+    "name": "Gútor",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Gyermely",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Győr",
+    "count": 3,
+    "country": "HU"
+  },
+  {
+    "name": "Hajdúböszörmény",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Halmaj",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Hanva",
+    "count": 7,
+    "country": "SK"
+  },
+  {
+    "name": "Hárskút",
+    "count": 19,
+    "country": "SK"
+  },
+  {
+    "name": "Hegyéte",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Hegysúr",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Helemba",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Helsinki",
+    "count": 1,
+    "country": "FI"
+  },
+  {
+    "name": "Hetény",
+    "count": 21,
+    "country": "SK"
+  },
+  {
+    "name": "Hidaskürt",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Hidasnémeti",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Hollóháza",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Hontfüzesgyarmat",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Hubó",
+    "count": 5,
+    "country": "SK"
+  },
+  {
+    "name": "Ifjúságfalva",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Illésháza",
+    "count": 5,
+    "country": "SK"
+  },
+  {
+    "name": "Imely",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Inám",
+    "count": 7,
+    "country": "SK"
+  },
+  {
+    "name": "Ipolybalog",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Ipolyfödémes",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Ipolyhídvég",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Ipolynyék",
+    "count": 8,
+    "country": "SK"
+  },
+  {
+    "name": "Ipolyság",
+    "count": 10,
+    "country": "SK"
+  },
+  {
+    "name": "Ipolyszakállos",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Izsa",
+    "count": 8,
+    "country": "SK"
+  },
+  {
+    "name": "Jablonca",
+    "count": 27,
+    "country": "SK"
+  },
+  {
+    "name": "Jánok",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Jánosi",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Jászó",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Jéne",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Jóka",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Jólész",
+    "count": 18,
+    "country": "SK"
+  },
+  {
+    "name": "Jósvafő",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Kalász",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Kalocsa",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Kálosa",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Kamocsa",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Kaposkelecsény",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Karlsruhe",
+    "count": 2,
+    "country": "DE"
+  },
+  {
+    "name": "Karva",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Kassa",
+    "count": 84,
+    "country": "SK"
+  },
+  {
+    "name": "Kazincbarcika",
+    "count": 4,
+    "country": "HU"
+  },
+  {
+    "name": "Kecskemét",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Kecső",
+    "count": 28,
+    "country": "SK"
+  },
+  {
+    "name": "Kéménd",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Kenyhec",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Kerepestarcsa",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Keszegfalva",
+    "count": 12,
+    "country": "SK"
+  },
+  {
+    "name": "Kicsind",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Királyfiakarcsa",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Királyhelmec",
+    "count": 14,
+    "country": "SK"
+  },
+  {
+    "name": "Királyrév",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Kisdobra",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Kisgéres",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Ipolykiskeszi",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Kiskövesd",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Kiskunhalas",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Kistárkány",
+    "count": 7,
+    "country": "SK"
+  },
+  {
+    "name": "Kisudvarnok",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Kisújfalu",
+    "count": 7,
+    "country": "SK"
+  },
+  {
+    "name": "Kolon",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Kolozsnéma",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Komaróc",
+    "count": 11,
+    "country": "SK"
+  },
+  {
+    "name": "Komárom",
+    "count": 326,
+    "country": "SK"
+  },
+  {
+    "name": "Komáromfüss",
+    "count": 5,
+    "country": "SK"
+  },
+  {
+    "name": "Koppenhága",
+    "count": 1,
+    "country": "DK"
+  },
+  {
+    "name": "Kóvár",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Köbölkút",
+    "count": 7,
+    "country": "SK"
+  },
+  {
+    "name": "Kőkeszi",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Körtvélyes",
+    "count": 12,
+    "country": "SK"
+  },
+  {
+    "name": "Kövecses",
+    "count": 9,
+    "country": "SK"
+  },
+  {
+    "name": "Krasznahorkaváralja",
+    "count": 55,
+    "country": "SK"
+  },
+  {
+    "name": "Kuntapolca",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Kürt",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Ladamóc",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Lakhegy",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Lakszakállas",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Lég",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Lekenye",
+    "count": 18,
+    "country": "SK"
+  },
+  {
+    "name": "Lelesz",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Léva",
+    "count": 14,
+    "country": "SK"
+  },
+  {
+    "name": "Lice",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "London",
+    "count": 1,
+    "country": "UK"
+  },
+  {
+    "name": "Lontó",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Los Angeles",
+    "count": 1,
+    "country": "US"
+  },
+  {
+    "name": "Losonc",
+    "count": 10,
+    "country": "SK"
+  },
+  {
+    "name": "Lőkös",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Lukanénye",
+    "count": 9,
+    "country": "SK"
+  },
+  {
+    "name": "Madar",
+    "count": 18,
+    "country": "SK"
+  },
+  {
+    "name": "Makranc",
+    "count": 10,
+    "country": "SK"
+  },
+  {
+    "name": "Marcali",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Marcelháza",
+    "count": 26,
+    "country": "SK"
+  },
+  {
+    "name": "Martos",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Medveshidegkút",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Megyercs",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Méhi",
+    "count": 16,
+    "country": "SK"
+  },
+  {
+    "name": "Melléte",
+    "count": 10,
+    "country": "SK"
+  },
+  {
+    "name": "Mezőkövesd",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Miglécnémeti",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Miskolc",
+    "count": 18,
+    "country": "HU"
+  },
+  {
+    "name": "Mohács",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Monor",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Mosonmagyaróvár",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Mosonudvar",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Muzsla",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Nádszeg",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Nagyabony",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Nagybodak",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Nagycsalomja",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Nagydaróc",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Nagyfödémes",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Nagyida",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Nagykapos",
+    "count": 23,
+    "country": "SK"
+  },
+  {
+    "name": "Nagykeszi",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Nagykőrös",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Nagykövesd",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Nagykürtös",
+    "count": 9,
+    "country": "SK"
+  },
+  {
+    "name": "Nagymácséd",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Nagymagyar",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Nagymegyer",
+    "count": 11,
+    "country": "SK"
+  },
+  {
+    "name": "Nagyölved",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Nagyráska",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Nagyrőce",
+    "count": 8,
+    "country": "SK"
+  },
+  {
+    "name": "Nagysalló",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Nagyszarva",
+    "count": 5,
+    "country": "SK"
+  },
+  {
+    "name": "Nagyszelmenc",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Nagytárkány",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Nagytúr",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Nagyudvarnok",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Nagyveszverés",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Nána",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Naprágy",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Naszvad",
+    "count": 16,
+    "country": "SK"
+  },
+  {
+    "name": "Nemeshodos",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Nemesmartonfala",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Nemesócsa",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Nemesradnót",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Nyárasd",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Nyékvárkony",
+    "count": 9,
+    "country": "SK"
+  },
+  {
+    "name": "Nyírágó",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Nyíregyháza",
+    "count": 6,
+    "country": "HU"
+  },
+  {
+    "name": "Nyirmártonfalva",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Nyirtelek",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Nyitra",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Nyitracsehi",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Nyitranagykér",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Óbást",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Ógyalla",
+    "count": 10,
+    "country": "SK"
+  },
+  {
+    "name": "Otrokócs",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Óvár",
+    "count": 5,
+    "country": "SK"
+  },
+  {
+    "name": "Ózd",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Örös",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Pány",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Párkány",
+    "count": 33,
+    "country": "SK"
+  },
+  {
+    "name": "Páskaháza",
+    "count": 8,
+    "country": "SK"
+  },
+  {
+    "name": "Pat",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Péder",
+    "count": 9,
+    "country": "SK"
+  },
+  {
+    "name": "Pelsőc",
+    "count": 95,
+    "country": "SK"
+  },
+  {
+    "name": "Pelsőcardó",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Perbenyik",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Perbete",
+    "count": 21,
+    "country": "SK"
+  },
+  {
+    "name": "Pered",
+    "count": 9,
+    "country": "SK"
+  },
+  {
+    "name": "Perényhím",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Perkupa",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Piliscsaba",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Pinc",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Pódatejed",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Pozba",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Pozsony",
+    "count": 44,
+    "country": "SK"
+  },
+  {
+    "name": "Pozsonyeperjes",
+    "count": 7,
+    "country": "SK"
+  },
+  {
+    "name": "Pozsonyvezekény",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Prága",
+    "count": 2,
+    "country": "CZ"
+  },
+  {
+    "name": "Putnok",
+    "count": 3,
+    "country": "HU"
+  },
+  {
+    "name": "Rabcsa",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Rad",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Ragyolc",
+    "count": 9,
+    "country": "SK"
+  },
+  {
+    "name": "Rakottyás",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Rapp",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Reichenbach an der Fils",
+    "count": 1,
+    "country": "DE"
+  },
+  {
+    "name": "Reste",
+    "count": 5,
+    "country": "SK"
+  },
+  {
+    "name": "Réte",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Rimabrézó",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Rimasimonyi",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Rimaszécs",
+    "count": 9,
+    "country": "SK"
+  },
+  {
+    "name": "Rimaszombat",
+    "count": 108,
+    "country": "SK"
+  },
+  {
+    "name": "Rozsnyó",
+    "count": 281,
+    "country": "SK"
+  },
+  {
+    "name": "Rozsnyórudna",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Sajógömör",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Sajólénártfala",
+    "count": 5,
+    "country": "SK"
+  },
+  {
+    "name": "Sajórecske",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Sajószentkirály",
+    "count": 10,
+    "country": "SK"
+  },
+  {
+    "name": "Sajószentpéter",
+    "count": 10,
+    "country": "HU"
+  },
+  {
+    "name": "Salgótarján",
+    "count": 4,
+    "country": "HU"
+  },
+  {
+    "name": "Sáró",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Sárosfa",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Serke",
+    "count": 5,
+    "country": "SK"
+  },
+  {
+    "name": "Gömörsíd",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Siófok",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Solymár",
+    "count": 4,
+    "country": "HU"
+  },
+  {
+    "name": "Somodi",
+    "count": 16,
+    "country": "SK"
+  },
+  {
+    "name": "Somorja",
+    "count": 41,
+    "country": "SK"
+  },
+  {
+    "name": "Somoskőújfalu",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Sopron",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Sőreg",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Strasbourg",
+    "count": 1,
+    "country": "FR"
+  },
+  {
+    "name": "Szabadka",
+    "count": 3,
+    "country": "SR"
+  },
+  {
+    "name": "Szádalmás",
+    "count": 58,
+    "country": "SK"
+  },
+  {
+    "name": "Szádelő",
+    "count": 10,
+    "country": "SK"
+  },
+  {
+    "name": "Szádudvarnokméhész",
+    "count": 8,
+    "country": "SK"
+  },
+  {
+    "name": "Szádvárborsa",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Szalóc",
+    "count": 56,
+    "country": "SK"
+  },
+  {
+    "name": "Szap",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Százhalombatta",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Szécsény",
+    "count": 3,
+    "country": "HU"
+  },
+  {
+    "name": "Szeged",
+    "count": 3,
+    "country": "HU"
+  },
+  {
+    "name": "Székelyudvarhely",
+    "count": 5,
+    "country": "RO"
+  },
+  {
+    "name": "Székesfehérvár",
+    "count": 4,
+    "country": "HU"
+  },
+  {
+    "name": "Szekszárd",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Szenc",
+    "count": 7,
+    "country": "SK"
+  },
+  {
+    "name": "Szentendre",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Szentpéter",
+    "count": 12,
+    "country": "SK"
+  },
+  {
+    "name": "Szepsi",
+    "count": 109,
+    "country": "SK"
+  },
+  {
+    "name": "Szeszta",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Szilas",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Szilice",
+    "count": 66,
+    "country": "SK"
+  },
+  {
+    "name": "Szímő",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Szinyér",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Szirénfalva",
+    "count": 5,
+    "country": "SK"
+  },
+  {
+    "name": "Szkáros",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Szőgyén",
+    "count": 17,
+    "country": "SK"
+  },
+  {
+    "name": "Szőlősardó",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Szőlőske",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Tajti",
+    "count": 8,
+    "country": "SK"
+  },
+  {
+    "name": "Taksonyfalva",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Tallós",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Tamási",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Tardoskedd",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Tata",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Tatabánya",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Telki",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Temesvár",
+    "count": 1,
+    "country": "RO"
+  },
+  {
+    "name": "Tiszabecs",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Tiszacsernyő",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Tiszaföldvár",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Tiszafüred",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Tiszasüly",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Tiszaújváros",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Torda",
+    "count": 1,
+    "country": "RO"
+  },
+  {
+    "name": "Torna",
+    "count": 18,
+    "country": "SK"
+  },
+  {
+    "name": "Tornagörgő",
+    "count": 105,
+    "country": "SK"
+  },
+  {
+    "name": "Tornahorváti",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Tornalja",
+    "count": 173,
+    "country": "SK"
+  },
+  {
+    "name": "Tornaújfalu",
+    "count": 16,
+    "country": "SK"
+  },
+  {
+    "name": "Tornóc",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Tornyosnémeti",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Törökbálint",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Udvard",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Ungvár",
+    "count": 1,
+    "country": "UA"
+  },
+  {
+    "name": "Vác",
+    "count": 4,
+    "country": "HU"
+  },
+  {
+    "name": "Vágfarkasd",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Vágfüzes",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Vágkirályfa",
+    "count": 3,
+    "country": "SK"
+  },
+  {
+    "name": "Vágpatta",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Vágsellye",
+    "count": 6,
+    "country": "SK"
+  },
+  {
+    "name": "Vajka",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Vámosbalog",
+    "count": 13,
+    "country": "SK"
+  },
+  {
+    "name": "Vámosszabadi",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Várhosszúrét",
+    "count": 65,
+    "country": "SK"
+  },
+  {
+    "name": "Vásárosnamény",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Vásárút",
+    "count": 5,
+    "country": "SK"
+  },
+  {
+    "name": "Vecseklő",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Velence",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Velkenye",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Veresegyház",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Veszprém",
+    "count": 2,
+    "country": "HU"
+  },
+  {
+    "name": "Virt",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Vizslás",
+    "count": 1,
+    "country": "HU"
+  },
+  {
+    "name": "Wels",
+    "count": 2,
+    "country": "AT"
+  },
+  {
+    "name": "Wroclaw",
+    "count": 2,
+    "country": "PL"
+  },
+  {
+    "name": "Zeherje",
+    "count": 2,
+    "country": "SK"
+  },
+  {
+    "name": "Zétény",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Zonctorony",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Zsarnó",
+    "count": 4,
+    "country": "SK"
+  },
+  {
+    "name": "Zselíz",
+    "count": 9,
+    "country": "SK"
+  },
+  {
+    "name": "Zsély",
+    "count": 1,
+    "country": "SK"
+  },
+  {
+    "name": "Zsigárd",
+    "count": 4,
+    "country": "SK"
+  }
+]

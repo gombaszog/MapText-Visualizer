@@ -1,53 +1,122 @@
 {
-	"colors": {
-		"101": { "color":"#008066", "district": "pozsony"}, 
-		"102": { "color":"#008066", "district": "pozsony"}, 
-		"103": { "color":"#008066", "district": "pozsony"}, 
-		"104": { "color":"#008066", "district": "pozsony"}, 
-		"105": { "color":"#008066", "district": "pozsony"}, 
-		"106": { "color":"#008066", "district": "pozsony"}, 
-		"201": { "color":"#aa0000", "district": "dsz"},
-		"202": { "color":"#806600", "district": "galanta"},
-		"108": { "color":"#660080", "district": "szenc"},
-		"401": { "color":"#225500", "district": "KN"},
-		"404": { "color":"#000080", "district": "ujvar"},
-		"405": { "color":"#333333", "district": "sellye"},
-		"407": { "color":"#008066", "district": "aranyosmarot"},
-		"403": { "color":"#008066", "district": "nyitra"},
-		"402": { "color":"#806600", "district": "leva"},
-		"610": { "color":"#000080", "district": "nagykurtos"},
-		"606": { "color":"#d40055", "district": "losonc"},
-		"609": { "color":"#225500", "district": "rsz"},
-		"608": { "color":"#000080", "district": "rocze"},
-		"808": { "color":"#aa0000", "district": "rozsnyo"},
-		"806": { "color":"#660080", "district": "kk"}, 
-		"811": { "color":"#333333", "district": "TT"},
-		"807": { "color":"#008066", "district": "nagymihaly"}
-	},
+  "colors": {
+    "101": {
+      "color": "#008066",
+      "district": "pozsony"
+    },
+    "102": {
+      "color": "#008066",
+      "district": "pozsony"
+    },
+    "103": {
+      "color": "#008066",
+      "district": "pozsony"
+    },
+    "104": {
+      "color": "#008066",
+      "district": "pozsony"
+    },
+    "105": {
+      "color": "#008066",
+      "district": "pozsony"
+    },
+    "106": {
+      "color": "#008066",
+      "district": "pozsony"
+    },
+    "201": {
+      "color": "#aa0000",
+      "district": "dsz"
+    },
+    "202": {
+      "color": "#806600",
+      "district": "galanta"
+    },
+    "108": {
+      "color": "#660080",
+      "district": "szenc"
+    },
+    "401": {
+      "color": "#225500",
+      "district": "KN"
+    },
+    "404": {
+      "color": "#000080",
+      "district": "ujvar"
+    },
+    "405": {
+      "color": "#333333",
+      "district": "sellye"
+    },
+    "407": {
+      "color": "#008066",
+      "district": "aranyosmarot"
+    },
+    "403": {
+      "color": "#008066",
+      "district": "nyitra"
+    },
+    "402": {
+      "color": "#806600",
+      "district": "leva"
+    },
+    "610": {
+      "color": "#000080",
+      "district": "nagykurtos"
+    },
+    "606": {
+      "color": "#d40055",
+      "district": "losonc"
+    },
+    "609": {
+      "color": "#225500",
+      "district": "rsz"
+    },
+    "608": {
+      "color": "#000080",
+      "district": "rocze"
+    },
+    "808": {
+      "color": "#aa0000",
+      "district": "rozsnyo"
+    },
+    "806": {
+      "color": "#660080",
+      "district": "kk"
+    },
+    "811": {
+      "color": "#333333",
+      "district": "TT"
+    },
+    "807": {
+      "color": "#008066",
+      "district": "nagymihaly"
+    }
+  },
 
-	"districts": {
-		"101": 0, 
-		"102": 0, 
-		"103": 0, 
-		"104": 0, 
-		"105": 0, 
-		"106": 0, 
-		"201": 0, 
-		"202": 0, 
-		"108": 0, 
-		"401": 0, 
-		"404": 0, 
-		"405": 0, 
-		"407": 0, 
-		"403": 0, 
-		"402": 0, 
-		"610": 0, 
-		"606": 0, 
-		"609": 0, 
-		"608": 0, 
-		"808": 0, 
-		"806": 0, 
-		"811": 0, 
-		"807": 0
-	}
+  "districts": {
+    "101": 0,
+    "102": 0,
+    "103": 0,
+    "104": 0,
+    "105": 0,
+    "106": 0,
+    "201": 0,
+    "202": 0,
+    "108": 0,
+    "401": 0,
+    "404": 0,
+    "405": 0,
+    "407": 0,
+    "403": 0,
+    "402": 0,
+    "610": 0,
+    "606": 0,
+    "609": 0,
+    "608": 0,
+    "808": 0,
+    "806": 0,
+    "811": 0,
+    "807": 0
+  }
 }
