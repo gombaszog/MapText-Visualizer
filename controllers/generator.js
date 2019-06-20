@@ -1,4 +1,5 @@
 const fs = require("fs")
+const mover = require('../controllers/move.js')
 
 const settlements = require("../json/setlements.json").result
 const villages = require("../json/villages.json")
@@ -12,18 +13,51 @@ const svgBase = fs.readFileSync("./assets/rajz.svg", "utf8")
 const magn = 40
 const baseLat = 2350 // fuggoleges
 const baseLng = 650 // vizszintes
+let margin = 0.25
 
 module.exports = {
   generateSvgHU: function () {
-    let container = getSvgText('hu')
-    fs.writeFileSync("./assets/result.svg", svgBase.replace("%%text%%", container), "utf8")
-    return 'Generating HU -> success'
+    try {
+      const svgDefault = getSvgText('hu')
+      const result = mover.makeOffsets(svgDefault)
+      const dataSet = generateFromDataset(result)
+      fs.writeFileSync("./assets/result.svg", svgBase.replace("%%text%%", dataSet), "utf8")
+
+      console.log('Generating HU -> success')
+      return {
+        error: null,
+        success: true
+      }
+    } catch (err) {
+      console.log(`Error: ${err}`)
+      return {
+        error: err,
+        success: false
+      }
+    }
+
   },
 
   generateSvgSK: function () {
-    let container = getSvgText('sk')
-    fs.writeFileSync("./assets/resultSK.svg", svgBase.replace("%%text%%", container), "utf8")
-    return 'Generating SK -> success'
+    try {
+      const svgDefault = getSvgText('sk')
+      const result = mover.makeOffsets(svgDefault)
+      const dataSet = generateFromDataset(result)
+      fs.writeFileSync("./assets/resultSK.svg", svgBase.replace("%%text%%", dataSet), "utf8")
+
+      console.log('Generating SK -> success')
+      return {
+        error: null,
+        success: true
+      }
+    } catch (err) {
+      console.log(`Error: ${err}`)
+      return {
+        error: err,
+        success: false
+      }
+    }
+
   }
 
 }
@@ -32,24 +66,50 @@ return module.exports
 
 
 function getSvgText(lang) {
-  let container = ""
+  let container = []
+  let i = 0
   for (var j = 0; j < villages.length; j++) {
     if (villages[j].country === "SK") {
       var coords = getCoordinates(villages[j].name)
       var fontSize = genFontSize(villages[j].count)
-      container += genText({
-        color: coords.color,
-        size: fontSize,
+      let content = new Object()
+      content = {
+        fontSize: fontSize,
         name: lang === 'sk' ? coords.skName : coords.huName,
-        x: coords.x,
-        y: coords.y,
-        id: j
-      })
+        id: j,
+        color: coords.color
+      }
+      content['xoffsetleft'] = (content['name'].length * content['fontSize'] / 1.8) / 1.7
+      content['x1'] = coords.x - margin - content['xoffsetleft']
+      content['y1'] = coords.y - (1.25 * content['fontSize'] / 1.8) - margin
+      content['x2'] = coords.x + (content['name'].length * content['fontSize'] / 1.8) + margin - content['xoffsetleft']
+      content['y2'] = coords.y + margin
+
+
+      container.push(content)
+      i++
     }
+  }
+
+  return container.sort((a, b) => (a.fontSize < b.fontSize) ? 1 : -1)
+}
+
+
+function generateFromDataset(dataSet) {
+  let container = ""
+  for (let i = 0; i < dataSet.length; i++) {
+    container += genText({
+      color: dataSet[i].color,
+      size: dataSet[i].fontSize,
+      name: dataSet[i].name,
+      x: dataSet[i].x1,
+      y: dataSet[i].y2,
+      xoffsetleft: dataSet[i].xoffsetleft,
+      id: i
+    })
   }
   return container
 }
-
 
 function getCoordinates(name) {
   for (var i = 0; i < settlements.length; i++) {
@@ -89,6 +149,8 @@ function getColor(districtId) {
 }
 
 function genText(config) {
-  return `<text xml:space="preserve" style="font-style:normal; font-weight:normal; font-size:${config.size}px; line-height:1; font-family:sans-serif; letter-spacing:0px; word-spacing:0px; fill:${config.color}; fill-opacity:1; stroke:none; stroke-width:0.26458332;" x="${config.x}" y="${config.y}" id="text${config.id}">${config.name}</text>
-	`
+  return `<text xml:space="preserve" style="font-style:normal; font-weight:normal; font-size:${config.size}px; line-height:1.25; font-family:sans-serif; letter-spacing:0px; word-spacing:0px; fill:${config.color}; fill-opacity:1; stroke:none; stroke-width:0.26458332;" x="${config.x + margin + config.xoffsetleft}" y="${config.y + margin}" id="${config.id}">
+    <tspan sodipodi:role="line" id="span${config.id}" x="${config.x + margin + config.xoffsetleft}" y="${config.y + margin}" style="stroke-width:0.26458332; text-anchor:middle; text-align:center">${config.name}</tspan>
+  </text>`
+  // <rect x="${config.x - config.testx/1.7}" y="${ config.y - config.testy}" width="${config.testx}px" height="${config.testy}px" style="stroke-width:0.1px;stroke:rgb(0,0,0);fill:none;" />
 }

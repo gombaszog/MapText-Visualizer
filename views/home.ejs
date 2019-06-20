@@ -7,9 +7,44 @@
 </head>
 
 <body style='margin:0;'>
-  <a href='regenerateHU'>Magyar újragenerálása</a>
-  <a href='regenerateSK'>Szlovák újragenerálása</a>
-  <img src='<%= url %>' style='width:2345px; height:auto; max-height:1000px; display:block;'>
+  <a href='#' onclick="regenerateHU();">Magyar újragenerálása</a><br>
+  <a href='#' onclick="regenerateSK();">Szlovák újragenerálása</a>
+  <img src='<%= url %>' style='width:2000px; height:auto; max-height:800px; display:block;'>
+  <div id='svg'>
+    <%- /* data */  %>
+  </div>
+  <script type='text/javascript'>
+    function regenerateHU() {
+      let xmlhttp = new XMLHttpRequest()
+      xmlhttp.open("GET", "regenerateHU", true)
+      xmlhttp.send()
+
+      xmlhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+          let result = JSON.parse(this.responseText)
+          if (result.success) {
+            window.location.replace('./')
+          }
+        }
+      }
+    }
+
+    function regenerateSK() {
+      let xmlhttp = new XMLHttpRequest()
+      xmlhttp.open("GET", "regenerateSK", true)
+      xmlhttp.send()
+
+      xmlhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+          let result = JSON.parse(this.responseText)
+          if (result.success) {
+            window.location.replace('./?lang=sk')
+          }
+        }
+      }
+    }
+
+  </script>
 </body>
 
 </html>
